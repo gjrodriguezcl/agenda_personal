@@ -1,0 +1,11 @@
+```txt
+# Este proyecto no requiere dependencias externas.
+# Todas las librerías utilizadas son parte de la biblioteca estándar de Python:
+# - os
+# - json
+# - datetime
+# - calendar
+# - sys
+# - tkinter (incluido en la instalación estándar)
+# - typing
+# - csv
