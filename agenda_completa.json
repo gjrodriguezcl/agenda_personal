@@ -1,0 +1,27 @@
+{
+    "items": {
+        "1": {
+            "tipo": "tarea",
+            "titulo": "Pagar servicio de agua",
+            "descripcion": "Empresas Aguas Limpias",
+            "fecha_inicio": "2026-10-05",
+            "repetir": false,
+            "creado": "2026-09-09 21:38",
+            "notas": "70000$ CLP",
+            "ocurrencias": {},
+            "completada": false,
+            "prioridad": "Alta"
+        },
+        "2": {
+            "tipo": "evento",
+            "titulo": "Entrevisa Laboral",
+            "descripcion": "Empresa ABC S.A.",
+            "fecha_inicio": "2026-09-18",
+            "repetir": false,
+            "creado": "2026-09-09 21:39",
+            "notas": "Llevar curriculo impreso",
+            "ocurrencias": {},
+            "lugar": "Av. ABC, Algun lugar del mundo"
+        }
+    }
+}
